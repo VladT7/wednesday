@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 requests = "^2.32.3"
 slack-sdk = "^3.33.3"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
